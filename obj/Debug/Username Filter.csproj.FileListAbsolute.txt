@@ -1,0 +1,7 @@
+C:\Users\HP\source\repos\Username Filter\bin\Debug\Username Filter.exe.config
+C:\Users\HP\source\repos\Username Filter\bin\Debug\Username Filter.exe
+C:\Users\HP\source\repos\Username Filter\bin\Debug\Username Filter.pdb
+C:\Users\HP\source\repos\Username Filter\obj\Debug\Username Filter.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\Username Filter\obj\Debug\Username Filter.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\Username Filter\obj\Debug\Username Filter.exe
+C:\Users\HP\source\repos\Username Filter\obj\Debug\Username Filter.pdb
